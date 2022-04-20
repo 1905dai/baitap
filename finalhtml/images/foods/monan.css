@@ -1,0 +1,57 @@
+h1{
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px ;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 6px;
+    margin-bottom: 6px ;
+}
+h4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.infor{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: large;
+    background-color: pink;
+}
+.img-product{
+    float: left;
+    margin-left: 5%;
+    margin-right: 4%;
+    border-right: 5px;
+
+}
+.button {
+    cursor: pointer;
+    outline: none;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: all .2s ease-in-out;
+  }
+  .button-cart {
+    background: rgb(238, 175, 175);
+    border-radius: 5px;
+    font-weight: 500;
+  }
+  .button-cart:hover{
+      border-color: white;
+  }
+  
+.footer-item{
+    margin-top: 140px;
+}

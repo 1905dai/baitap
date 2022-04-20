@@ -1,0 +1,20 @@
+
+  marquee {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-repeat:no-repeat;
+    width: 100%;
+    height: auto;
+    mask-repeat: repeat-x;
+    transform: scroll(0.8);
+  }
+  img:hover{
+    box-shadow: 15px 15px 10px pink;
+  }
+  img{
+    margin-left: 10px;
+    box-shadow: 5px 10px 5px rgb(192, 178, 178);
+  }
+  img:hover{
+    font-size: larger;
+  }
